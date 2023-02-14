@@ -58,9 +58,16 @@ quick_report(order_by_date)
 
 order_by_date.to_csv('order_by_date.csv', index=False)
 
+order_by_date_country = df[['InvoiceDate', 'Country', 'UnitPrice']]
+
 order_by_date_country = (
-    df.groupby(['InvoiceDate', 'Country']).size().reset_index(name='count')
+    order_by_date_country.groupby(['InvoiceDate', 'Country'])
+    .count()
+    .unstack(fill_value=0)
+    .stack()
+    .reset_index()
 )
+order_by_date_country.columns = ['InvoiceDate', 'Country', 'count']
 # order_by_date_country = (
 #     order_by_date_country.groupby(
 #         [
@@ -88,3 +95,12 @@ quick_report(order_by_date_country)
 
 
 order_by_date_country.to_csv('order_by_date_country.csv', index=False)
+
+order_by_date_country['cumsum'] = order_by_date_country.groupby('Country')[
+    'count'
+].cumsum()
+
+order_cumsum_by_date_country = order_by_date_country.drop(columns='count')
+quick_report(order_cumsum_by_date_country)
+
+order_cumsum_by_date_country.to_csv('order_cumsum_by_date_country.csv', index=False)

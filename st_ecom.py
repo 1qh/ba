@@ -34,48 +34,93 @@ if page == 'Exploratory Data Analysis':
             'By country view',
         ),
     )
+    order_per_country = pd.read_csv('order_per_country.csv')
+    customer_per_country = pd.read_csv('customer_per_country.csv')
+    order_by_date_country = pd.read_csv('order_by_date_country.csv')
+    order_cumsum_by_date_country = pd.read_csv('order_cumsum_by_date_country.csv')
+
     if view == 'By country view':
         st.header('By country view')
 
-        st.subheader('Number of customer per country')
-        customer_per_country = pd.read_csv('customer_per_country.csv')
+        tab1, tab2 = st.tabs(['Without UK', 'All countries'])
+        with tab1:
+            st.subheader('Number of customer per country')
 
-        dis(
-            px.pie(
-                customer_per_country,
-                names='Country',
-                values='count',
+            dis(
+                px.pie(
+                    customer_per_country[
+                        customer_per_country['Country'] != 'United Kingdom'
+                    ],
+                    names='Country',
+                    values='count',
+                )
             )
-        )
-        dis(
-            px.choropleth(
-                customer_per_country,
-                locationmode='country names',
-                locations='Country',
-                color='count',
-                color_continuous_scale='dense',
+            dis(
+                px.choropleth(
+                    customer_per_country[
+                        customer_per_country['Country'] != 'United Kingdom'
+                    ],
+                    locationmode='country names',
+                    locations='Country',
+                    color='count',
+                    color_continuous_scale='dense',
+                )
             )
-        )
+            st.subheader('Number of order per country')
 
-        st.subheader('Number of order per country')
-        order_per_country = pd.read_csv('order_per_country.csv')
+            dis(
+                px.pie(
+                    order_per_country[order_per_country['Country'] != 'United Kingdom'],
+                    names='Country',
+                    values='count',
+                )
+            )
+            dis(
+                px.choropleth(
+                    order_per_country[order_per_country['Country'] != 'United Kingdom'],
+                    locationmode='country names',
+                    locations='Country',
+                    color='count',
+                    color_continuous_scale='dense',
+                )
+            )
+        with tab2:
+            st.subheader('Number of customer per country')
 
-        dis(
-            px.pie(
-                order_per_country,
-                names='Country',
-                values='count',
+            dis(
+                px.pie(
+                    customer_per_country,
+                    names='Country',
+                    values='count',
+                )
             )
-        )
-        dis(
-            px.choropleth(
-                order_per_country,
-                locationmode='country names',
-                locations='Country',
-                color='count',
-                color_continuous_scale='dense',
+            dis(
+                px.choropleth(
+                    customer_per_country,
+                    locationmode='country names',
+                    locations='Country',
+                    color='count',
+                    color_continuous_scale='dense',
+                )
             )
-        )
+            st.subheader('Number of order per country')
+
+            dis(
+                px.pie(
+                    order_per_country,
+                    names='Country',
+                    values='count',
+                )
+            )
+            dis(
+                px.choropleth(
+                    order_per_country,
+                    locationmode='country names',
+                    locations='Country',
+                    color='count',
+                    color_continuous_scale='dense',
+                )
+            )
     if view == 'By time view':
         st.header('By time view')
 
@@ -132,57 +177,131 @@ if page == 'Exploratory Data Analysis':
         )
 
         st.subheader('Number of orders by date and country')
-        order_by_date_country = pd.read_csv('order_by_date_country.csv')
-
-        dis(
-            px.line(
-                order_by_date_country,
-                x='InvoiceDate',
-                y='count',
-                color='Country',
-                height=700,
-                line_shape='spline',
-            ).update_xaxes(
-                rangeslider_visible=True,
-                rangeselector=dict(
-                    buttons=list(
-                        [
-                            dict(
-                                count=1,
-                                label='1m',
-                                step='month',
-                                stepmode='backward',
-                            ),
-                            dict(
-                                count=3,
-                                label='3m',
-                                step='month',
-                                stepmode='backward',
-                            ),
-                            dict(
-                                count=6,
-                                label='6m',
-                                step='month',
-                                stepmode='backward',
-                            ),
-                            dict(
-                                count=1,
-                                label='YTD',
-                                step='year',
-                                stepmode='todate',
-                            ),
-                            dict(
-                                count=1,
-                                label='1y',
-                                step='year',
-                                stepmode='backward',
-                            ),
-                            dict(step='all'),
-                        ]
-                    )
-                ),
+        tab1, tab2 = st.tabs(['Without UK', 'All countries'])
+        with tab1:
+            dis(
+                px.bar(
+                    order_cumsum_by_date_country[
+                        order_cumsum_by_date_country['Country'] != 'United Kingdom'
+                    ],
+                    x='cumsum',
+                    y='Country',
+                    animation_frame='InvoiceDate',
+                    height=1200,
+                ).update_layout(yaxis={'categoryorder': 'total ascending'})
             )
-        )
+
+            dis(
+                px.line(
+                    order_by_date_country[
+                        order_by_date_country['Country'] != 'United Kingdom'
+                    ],
+                    x='InvoiceDate',
+                    y='count',
+                    color='Country',
+                    height=700,
+                    # line_shape='spline',
+                ).update_xaxes(
+                    rangeslider_visible=True,
+                    rangeselector=dict(
+                        buttons=list(
+                            [
+                                dict(
+                                    count=1,
+                                    label='1m',
+                                    step='month',
+                                    stepmode='backward',
+                                ),
+                                dict(
+                                    count=3,
+                                    label='3m',
+                                    step='month',
+                                    stepmode='backward',
+                                ),
+                                dict(
+                                    count=6,
+                                    label='6m',
+                                    step='month',
+                                    stepmode='backward',
+                                ),
+                                dict(
+                                    count=1,
+                                    label='YTD',
+                                    step='year',
+                                    stepmode='todate',
+                                ),
+                                dict(
+                                    count=1,
+                                    label='1y',
+                                    step='year',
+                                    stepmode='backward',
+                                ),
+                                dict(step='all'),
+                            ]
+                        )
+                    ),
+                )
+            )
+        with tab2:
+            dis(
+                px.bar(
+                    order_cumsum_by_date_country,
+                    x='cumsum',
+                    y='Country',
+                    animation_frame='InvoiceDate',
+                    height=1000,
+                ).update_layout(yaxis={'categoryorder': 'total ascending'})
+            )
+
+            dis(
+                px.line(
+                    order_by_date_country,
+                    x='InvoiceDate',
+                    y='count',
+                    color='Country',
+                    height=700,
+                    # line_shape='spline',
+                ).update_xaxes(
+                    rangeslider_visible=True,
+                    rangeselector=dict(
+                        buttons=list(
+                            [
+                                dict(
+                                    count=1,
+                                    label='1m',
+                                    step='month',
+                                    stepmode='backward',
+                                ),
+                                dict(
+                                    count=3,
+                                    label='3m',
+                                    step='month',
+                                    stepmode='backward',
+                                ),
+                                dict(
+                                    count=6,
+                                    label='6m',
+                                    step='month',
+                                    stepmode='backward',
+                                ),
+                                dict(
+                                    count=1,
+                                    label='YTD',
+                                    step='year',
+                                    stepmode='todate',
+                                ),
+                                dict(
+                                    count=1,
+                                    label='1y',
+                                    step='year',
+                                    stepmode='backward',
+                                ),
+                                dict(step='all'),
+                            ]
+                        )
+                    ),
+                )
+            )
 if page == 'RFM Analysis':
     st.title('Recency Frequency Monetary Analysis')
     view = st.sidebar.selectbox(

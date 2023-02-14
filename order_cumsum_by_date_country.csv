@@ -1,0 +1,1962 @@
+InvoiceDate,Country,cumsum
+2010-11-29,Australia,14
+2010-11-29,Austria,0
+2010-11-29,Bahrain,0
+2010-11-29,Belgium,12
+2010-11-29,Brazil,0
+2010-11-29,Canada,0
+2010-11-29,Channel Islands,0
+2010-11-29,Cyprus,0
+2010-11-29,Czech Republic,0
+2010-11-29,Denmark,0
+2010-11-29,EIRE,132
+2010-11-29,European Community,0
+2010-11-29,Finland,0
+2010-11-29,France,106
+2010-11-29,Germany,179
+2010-11-29,Greece,0
+2010-11-29,Iceland,0
+2010-11-29,Israel,0
+2010-11-29,Italy,24
+2010-11-29,Japan,16
+2010-11-29,Lebanon,0
+2010-11-29,Lithuania,34
+2010-11-29,Malta,0
+2010-11-29,Netherlands,2
+2010-11-29,Norway,73
+2010-11-29,Poland,8
+2010-11-29,Portugal,14
+2010-11-29,RSA,0
+2010-11-29,Saudi Arabia,0
+2010-11-29,Singapore,0
+2010-11-29,Spain,5
+2010-11-29,Sweden,0
+2010-11-29,Switzerland,6
+2010-11-29,USA,0
+2010-11-29,United Arab Emirates,0
+2010-11-29,United Kingdom,8817
+2010-11-29,Unspecified,0
+2010-12-06,Australia,22
+2010-12-06,Austria,0
+2010-12-06,Bahrain,0
+2010-12-06,Belgium,12
+2010-12-06,Brazil,0
+2010-12-06,Canada,0
+2010-12-06,Channel Islands,17
+2010-12-06,Cyprus,0
+2010-12-06,Czech Republic,0
+2010-12-06,Denmark,20
+2010-12-06,EIRE,215
+2010-12-06,European Community,0
+2010-12-06,Finland,0
+2010-12-06,France,284
+2010-12-06,Germany,287
+2010-12-06,Greece,0
+2010-12-06,Iceland,31
+2010-12-06,Israel,0
+2010-12-06,Italy,24
+2010-12-06,Japan,65
+2010-12-06,Lebanon,0
+2010-12-06,Lithuania,35
+2010-12-06,Malta,0
+2010-12-06,Netherlands,2
+2010-12-06,Norway,147
+2010-12-06,Poland,8
+2010-12-06,Portugal,94
+2010-12-06,RSA,0
+2010-12-06,Saudi Arabia,0
+2010-12-06,Singapore,0
+2010-12-06,Spain,65
+2010-12-06,Sweden,0
+2010-12-06,Switzerland,6
+2010-12-06,USA,0
+2010-12-06,United Arab Emirates,0
+2010-12-06,United Kingdom,16848
+2010-12-06,Unspecified,0
+2010-12-13,Australia,31
+2010-12-13,Austria,8
+2010-12-13,Bahrain,0
+2010-12-13,Belgium,42
+2010-12-13,Brazil,0
+2010-12-13,Canada,0
+2010-12-13,Channel Islands,17
+2010-12-13,Cyprus,82
+2010-12-13,Czech Republic,0
+2010-12-13,Denmark,20
+2010-12-13,EIRE,290
+2010-12-13,European Community,0
+2010-12-13,Finland,17
+2010-12-13,France,425
+2010-12-13,Germany,437
+2010-12-13,Greece,0
+2010-12-13,Iceland,31
+2010-12-13,Israel,0
+2010-12-13,Italy,24
+2010-12-13,Japan,65
+2010-12-13,Lebanon,0
+2010-12-13,Lithuania,35
+2010-12-13,Malta,0
+2010-12-13,Netherlands,18
+2010-12-13,Norway,147
+2010-12-13,Poland,8
+2010-12-13,Portugal,116
+2010-12-13,RSA,0
+2010-12-13,Saudi Arabia,0
+2010-12-13,Singapore,0
+2010-12-13,Spain,75
+2010-12-13,Sweden,26
+2010-12-13,Switzerland,49
+2010-12-13,USA,0
+2010-12-13,United Arab Emirates,0
+2010-12-13,United Kingdom,22760
+2010-12-13,Unspecified,0
+2010-12-20,Australia,31
+2010-12-20,Austria,8
+2010-12-20,Bahrain,0
+2010-12-20,Belgium,95
+2010-12-20,Brazil,0
+2010-12-20,Canada,0
+2010-12-20,Channel Islands,17
+2010-12-20,Cyprus,82
+2010-12-20,Czech Republic,0
+2010-12-20,Denmark,20
+2010-12-20,EIRE,333
+2010-12-20,European Community,0
+2010-12-20,Finland,17
+2010-12-20,France,434
+2010-12-20,Germany,511
+2010-12-20,Greece,0
+2010-12-20,Iceland,31
+2010-12-20,Israel,0
+2010-12-20,Italy,40
+2010-12-20,Japan,65
+2010-12-20,Lebanon,0
+2010-12-20,Lithuania,35
+2010-12-20,Malta,0
+2010-12-20,Netherlands,72
+2010-12-20,Norway,147
+2010-12-20,Poland,8
+2010-12-20,Portugal,116
+2010-12-20,RSA,0
+2010-12-20,Saudi Arabia,0
+2010-12-20,Singapore,0
+2010-12-20,Spain,75
+2010-12-20,Sweden,26
+2010-12-20,Switzerland,49
+2010-12-20,USA,0
+2010-12-20,United Arab Emirates,0
+2010-12-20,United Kingdom,23458
+2010-12-20,Unspecified,0
+2011-01-03,Australia,80
+2011-01-03,Austria,8
+2011-01-03,Bahrain,0
+2011-01-03,Belgium,95
+2011-01-03,Brazil,0
+2011-01-03,Canada,0
+2011-01-03,Channel Islands,17
+2011-01-03,Cyprus,82
+2011-01-03,Czech Republic,0
+2011-01-03,Denmark,20
+2011-01-03,EIRE,346
+2011-01-03,European Community,0
+2011-01-03,Finland,17
+2011-01-03,France,650
+2011-01-03,Germany,760
+2011-01-03,Greece,0
+2011-01-03,Iceland,31
+2011-01-03,Israel,0
+2011-01-03,Italy,40
+2011-01-03,Japan,65
+2011-01-03,Lebanon,0
+2011-01-03,Lithuania,35
+2011-01-03,Malta,0
+2011-01-03,Netherlands,72
+2011-01-03,Norway,147
+2011-01-03,Poland,8
+2011-01-03,Portugal,168
+2011-01-03,RSA,0
+2011-01-03,Saudi Arabia,0
+2011-01-03,Singapore,0
+2011-01-03,Spain,266
+2011-01-03,Sweden,39
+2011-01-03,Switzerland,49
+2011-01-03,USA,0
+2011-01-03,United Arab Emirates,0
+2011-01-03,United Kingdom,28655
+2011-01-03,Unspecified,0
+2011-01-10,Australia,121
+2011-01-10,Austria,8
+2011-01-10,Bahrain,0
+2011-01-10,Belgium,126
+2011-01-10,Brazil,0
+2011-01-10,Canada,0
+2011-01-10,Channel Islands,17
+2011-01-10,Cyprus,98
+2011-01-10,Czech Republic,0
+2011-01-10,Denmark,20
+2011-01-10,EIRE,387
+2011-01-10,European Community,0
+2011-01-10,Finland,17
+2011-01-10,France,854
+2011-01-10,Germany,895
+2011-01-10,Greece,0
+2011-01-10,Iceland,31
+2011-01-10,Israel,0
+2011-01-10,Italy,110
+2011-01-10,Japan,65
+2011-01-10,Lebanon,0
+2011-01-10,Lithuania,35
+2011-01-10,Malta,0
+2011-01-10,Netherlands,151
+2011-01-10,Norway,147
+2011-01-10,Poland,33
+2011-01-10,Portugal,168
+2011-01-10,RSA,0
+2011-01-10,Saudi Arabia,0
+2011-01-10,Singapore,0
+2011-01-10,Spain,301
+2011-01-10,Sweden,39
+2011-01-10,Switzerland,49
+2011-01-10,USA,0
+2011-01-10,United Arab Emirates,0
+2011-01-10,United Kingdom,32778
+2011-01-10,Unspecified,0
+2011-01-17,Australia,138
+2011-01-17,Austria,8
+2011-01-17,Bahrain,0
+2011-01-17,Belgium,137
+2011-01-17,Brazil,0
+2011-01-17,Canada,0
+2011-01-17,Channel Islands,17
+2011-01-17,Cyprus,98
+2011-01-17,Czech Republic,0
+2011-01-17,Denmark,20
+2011-01-17,EIRE,433
+2011-01-17,European Community,0
+2011-01-17,Finland,22
+2011-01-17,France,978
+2011-01-17,Germany,990
+2011-01-17,Greece,32
+2011-01-17,Iceland,31
+2011-01-17,Israel,0
+2011-01-17,Italy,122
+2011-01-17,Japan,65
+2011-01-17,Lebanon,0
+2011-01-17,Lithuania,35
+2011-01-17,Malta,0
+2011-01-17,Netherlands,292
+2011-01-17,Norway,147
+2011-01-17,Poland,33
+2011-01-17,Portugal,204
+2011-01-17,RSA,0
+2011-01-17,Saudi Arabia,0
+2011-01-17,Singapore,0
+2011-01-17,Spain,364
+2011-01-17,Sweden,39
+2011-01-17,Switzerland,175
+2011-01-17,USA,0
+2011-01-17,United Arab Emirates,0
+2011-01-17,United Kingdom,36503
+2011-01-17,Unspecified,0
+2011-01-24,Australia,158
+2011-01-24,Austria,8
+2011-01-24,Bahrain,0
+2011-01-24,Belgium,153
+2011-01-24,Brazil,0
+2011-01-24,Canada,0
+2011-01-24,Channel Islands,47
+2011-01-24,Cyprus,98
+2011-01-24,Czech Republic,0
+2011-01-24,Denmark,20
+2011-01-24,EIRE,506
+2011-01-24,European Community,0
+2011-01-24,Finland,28
+2011-01-24,France,1094
+2011-01-24,Germany,1288
+2011-01-24,Greece,32
+2011-01-24,Iceland,60
+2011-01-24,Israel,0
+2011-01-24,Italy,148
+2011-01-24,Japan,65
+2011-01-24,Lebanon,45
+2011-01-24,Lithuania,35
+2011-01-24,Malta,0
+2011-01-24,Netherlands,301
+2011-01-24,Norway,147
+2011-01-24,Poland,33
+2011-01-24,Portugal,234
+2011-01-24,RSA,0
+2011-01-24,Saudi Arabia,0
+2011-01-24,Singapore,56
+2011-01-24,Spain,457
+2011-01-24,Sweden,60
+2011-01-24,Switzerland,209
+2011-01-24,USA,0
+2011-01-24,United Arab Emirates,0
+2011-01-24,United Kingdom,41376
+2011-01-24,Unspecified,0
+2011-01-31,Australia,168
+2011-01-31,Austria,29
+2011-01-31,Bahrain,0
+2011-01-31,Belgium,159
+2011-01-31,Brazil,0
+2011-01-31,Canada,0
+2011-01-31,Channel Islands,47
+2011-01-31,Cyprus,190
+2011-01-31,Czech Republic,0
+2011-01-31,Denmark,20
+2011-01-31,EIRE,604
+2011-01-31,European Community,0
+2011-01-31,Finland,28
+2011-01-31,France,1205
+2011-01-31,Germany,1343
+2011-01-31,Greece,32
+2011-01-31,Iceland,60
+2011-01-31,Israel,0
+2011-01-31,Italy,148
+2011-01-31,Japan,102
+2011-01-31,Lebanon,45
+2011-01-31,Lithuania,35
+2011-01-31,Malta,0
+2011-01-31,Netherlands,313
+2011-01-31,Norway,164
+2011-01-31,Poland,42
+2011-01-31,Portugal,234
+2011-01-31,RSA,0
+2011-01-31,Saudi Arabia,0
+2011-01-31,Singapore,56
+2011-01-31,Spain,500
+2011-01-31,Sweden,72
+2011-01-31,Switzerland,235
+2011-01-31,USA,0
+2011-01-31,United Arab Emirates,0
+2011-01-31,United Kingdom,45806
+2011-01-31,Unspecified,0
+2011-02-07,Australia,168
+2011-02-07,Austria,29
+2011-02-07,Bahrain,0
+2011-02-07,Belgium,178
+2011-02-07,Brazil,0
+2011-02-07,Canada,0
+2011-02-07,Channel Islands,47
+2011-02-07,Cyprus,190
+2011-02-07,Czech Republic,0
+2011-02-07,Denmark,20
+2011-02-07,EIRE,680
+2011-02-07,European Community,0
+2011-02-07,Finland,28
+2011-02-07,France,1259
+2011-02-07,Germany,1468
+2011-02-07,Greece,32
+2011-02-07,Iceland,60
+2011-02-07,Israel,0
+2011-02-07,Italy,148
+2011-02-07,Japan,150
+2011-02-07,Lebanon,45
+2011-02-07,Lithuania,35
+2011-02-07,Malta,0
+2011-02-07,Netherlands,327
+2011-02-07,Norway,164
+2011-02-07,Poland,61
+2011-02-07,Portugal,234
+2011-02-07,RSA,0
+2011-02-07,Saudi Arabia,0
+2011-02-07,Singapore,56
+2011-02-07,Spain,553
+2011-02-07,Sweden,72
+2011-02-07,Switzerland,235
+2011-02-07,USA,0
+2011-02-07,United Arab Emirates,30
+2011-02-07,United Kingdom,48894
+2011-02-07,Unspecified,0
+2011-02-14,Australia,237
+2011-02-14,Austria,29
+2011-02-14,Bahrain,0
+2011-02-14,Belgium,257
+2011-02-14,Brazil,0
+2011-02-14,Canada,0
+2011-02-14,Channel Islands,57
+2011-02-14,Cyprus,254
+2011-02-14,Czech Republic,0
+2011-02-14,Denmark,40
+2011-02-14,EIRE,836
+2011-02-14,European Community,0
+2011-02-14,Finland,28
+2011-02-14,France,1429
+2011-02-14,Germany,1523
+2011-02-14,Greece,32
+2011-02-14,Iceland,60
+2011-02-14,Israel,16
+2011-02-14,Italy,161
+2011-02-14,Japan,150
+2011-02-14,Lebanon,45
+2011-02-14,Lithuania,35
+2011-02-14,Malta,0
+2011-02-14,Netherlands,446
+2011-02-14,Norway,179
+2011-02-14,Poland,61
+2011-02-14,Portugal,277
+2011-02-14,RSA,0
+2011-02-14,Saudi Arabia,0
+2011-02-14,Singapore,56
+2011-02-14,Spain,553
+2011-02-14,Sweden,72
+2011-02-14,Switzerland,235
+2011-02-14,USA,0
+2011-02-14,United Arab Emirates,30
+2011-02-14,United Kingdom,53503
+2011-02-14,Unspecified,0
+2011-02-21,Australia,247
+2011-02-21,Austria,29
+2011-02-21,Bahrain,0
+2011-02-21,Belgium,270
+2011-02-21,Brazil,0
+2011-02-21,Canada,0
+2011-02-21,Channel Islands,57
+2011-02-21,Cyprus,254
+2011-02-21,Czech Republic,15
+2011-02-21,Denmark,40
+2011-02-21,EIRE,851
+2011-02-21,European Community,0
+2011-02-21,Finland,40
+2011-02-21,France,1513
+2011-02-21,Germany,1584
+2011-02-21,Greece,32
+2011-02-21,Iceland,60
+2011-02-21,Israel,16
+2011-02-21,Italy,161
+2011-02-21,Japan,150
+2011-02-21,Lebanon,45
+2011-02-21,Lithuania,35
+2011-02-21,Malta,0
+2011-02-21,Netherlands,490
+2011-02-21,Norway,179
+2011-02-21,Poland,61
+2011-02-21,Portugal,291
+2011-02-21,RSA,0
+2011-02-21,Saudi Arabia,9
+2011-02-21,Singapore,56
+2011-02-21,Spain,553
+2011-02-21,Sweden,72
+2011-02-21,Switzerland,310
+2011-02-21,USA,0
+2011-02-21,United Arab Emirates,30
+2011-02-21,United Kingdom,58914
+2011-02-21,Unspecified,0
+2011-02-28,Australia,329
+2011-02-28,Austria,33
+2011-02-28,Bahrain,0
+2011-02-28,Belgium,315
+2011-02-28,Brazil,0
+2011-02-28,Canada,0
+2011-02-28,Channel Islands,96
+2011-02-28,Cyprus,254
+2011-02-28,Czech Republic,15
+2011-02-28,Denmark,40
+2011-02-28,EIRE,932
+2011-02-28,European Community,0
+2011-02-28,Finland,234
+2011-02-28,France,1618
+2011-02-28,Germany,1673
+2011-02-28,Greece,54
+2011-02-28,Iceland,60
+2011-02-28,Israel,16
+2011-02-28,Italy,179
+2011-02-28,Japan,166
+2011-02-28,Lebanon,45
+2011-02-28,Lithuania,35
+2011-02-28,Malta,0
+2011-02-28,Netherlands,490
+2011-02-28,Norway,187
+2011-02-28,Poland,61
+2011-02-28,Portugal,291
+2011-02-28,RSA,0
+2011-02-28,Saudi Arabia,9
+2011-02-28,Singapore,56
+2011-02-28,Spain,576
+2011-02-28,Sweden,72
+2011-02-28,Switzerland,310
+2011-02-28,USA,0
+2011-02-28,United Arab Emirates,30
+2011-02-28,United Kingdom,63859
+2011-02-28,Unspecified,0
+2011-03-07,Australia,339
+2011-03-07,Austria,33
+2011-03-07,Bahrain,0
+2011-03-07,Belgium,330
+2011-03-07,Brazil,0
+2011-03-07,Canada,10
+2011-03-07,Channel Islands,239
+2011-03-07,Cyprus,302
+2011-03-07,Czech Republic,15
+2011-03-07,Denmark,40
+2011-03-07,EIRE,1099
+2011-03-07,European Community,0
+2011-03-07,Finland,234
+2011-03-07,France,1677
+2011-03-07,Germany,1783
+2011-03-07,Greece,54
+2011-03-07,Iceland,60
+2011-03-07,Israel,16
+2011-03-07,Italy,179
+2011-03-07,Japan,166
+2011-03-07,Lebanon,45
+2011-03-07,Lithuania,35
+2011-03-07,Malta,0
+2011-03-07,Netherlands,525
+2011-03-07,Norway,187
+2011-03-07,Poland,61
+2011-03-07,Portugal,347
+2011-03-07,RSA,0
+2011-03-07,Saudi Arabia,9
+2011-03-07,Singapore,56
+2011-03-07,Spain,576
+2011-03-07,Sweden,100
+2011-03-07,Switzerland,314
+2011-03-07,USA,0
+2011-03-07,United Arab Emirates,30
+2011-03-07,United Kingdom,68502
+2011-03-07,Unspecified,0
+2011-03-14,Australia,339
+2011-03-14,Austria,33
+2011-03-14,Bahrain,0
+2011-03-14,Belgium,365
+2011-03-14,Brazil,0
+2011-03-14,Canada,10
+2011-03-14,Channel Islands,239
+2011-03-14,Cyprus,302
+2011-03-14,Czech Republic,15
+2011-03-14,Denmark,59
+2011-03-14,EIRE,1275
+2011-03-14,European Community,0
+2011-03-14,Finland,244
+2011-03-14,France,1779
+2011-03-14,Germany,1945
+2011-03-14,Greece,54
+2011-03-14,Iceland,60
+2011-03-14,Israel,16
+2011-03-14,Italy,230
+2011-03-14,Japan,166
+2011-03-14,Lebanon,45
+2011-03-14,Lithuania,35
+2011-03-14,Malta,0
+2011-03-14,Netherlands,525
+2011-03-14,Norway,194
+2011-03-14,Poland,70
+2011-03-14,Portugal,347
+2011-03-14,RSA,0
+2011-03-14,Saudi Arabia,9
+2011-03-14,Singapore,56
+2011-03-14,Spain,637
+2011-03-14,Sweden,100
+2011-03-14,Switzerland,314
+2011-03-14,USA,0
+2011-03-14,United Arab Emirates,30
+2011-03-14,United Kingdom,73725
+2011-03-14,Unspecified,0
+2011-03-21,Australia,355
+2011-03-21,Austria,47
+2011-03-21,Bahrain,0
+2011-03-21,Belgium,431
+2011-03-21,Brazil,0
+2011-03-21,Canada,10
+2011-03-21,Channel Islands,239
+2011-03-21,Cyprus,302
+2011-03-21,Czech Republic,15
+2011-03-21,Denmark,59
+2011-03-21,EIRE,1373
+2011-03-21,European Community,0
+2011-03-21,Finland,244
+2011-03-21,France,1984
+2011-03-21,Germany,2146
+2011-03-21,Greece,54
+2011-03-21,Iceland,60
+2011-03-21,Israel,16
+2011-03-21,Italy,244
+2011-03-21,Japan,166
+2011-03-21,Lebanon,45
+2011-03-21,Lithuania,35
+2011-03-21,Malta,0
+2011-03-21,Netherlands,559
+2011-03-21,Norway,202
+2011-03-21,Poland,70
+2011-03-21,Portugal,389
+2011-03-21,RSA,0
+2011-03-21,Saudi Arabia,9
+2011-03-21,Singapore,56
+2011-03-21,Spain,754
+2011-03-21,Sweden,107
+2011-03-21,Switzerland,327
+2011-03-21,USA,0
+2011-03-21,United Arab Emirates,30
+2011-03-21,United Kingdom,79599
+2011-03-21,Unspecified,0
+2011-03-28,Australia,356
+2011-03-28,Austria,47
+2011-03-28,Bahrain,0
+2011-03-28,Belgium,431
+2011-03-28,Brazil,0
+2011-03-28,Canada,10
+2011-03-28,Channel Islands,239
+2011-03-28,Cyprus,302
+2011-03-28,Czech Republic,15
+2011-03-28,Denmark,59
+2011-03-28,EIRE,1478
+2011-03-28,European Community,0
+2011-03-28,Finland,254
+2011-03-28,France,2096
+2011-03-28,Germany,2199
+2011-03-28,Greece,54
+2011-03-28,Iceland,60
+2011-03-28,Israel,16
+2011-03-28,Italy,244
+2011-03-28,Japan,166
+2011-03-28,Lebanon,45
+2011-03-28,Lithuania,35
+2011-03-28,Malta,0
+2011-03-28,Netherlands,679
+2011-03-28,Norway,202
+2011-03-28,Poland,70
+2011-03-28,Portugal,405
+2011-03-28,RSA,0
+2011-03-28,Saudi Arabia,9
+2011-03-28,Singapore,61
+2011-03-28,Spain,754
+2011-03-28,Sweden,107
+2011-03-28,Switzerland,368
+2011-03-28,USA,0
+2011-03-28,United Arab Emirates,30
+2011-03-28,United Kingdom,85442
+2011-03-28,Unspecified,0
+2011-04-04,Australia,373
+2011-04-04,Austria,47
+2011-04-04,Bahrain,0
+2011-04-04,Belgium,475
+2011-04-04,Brazil,0
+2011-04-04,Canada,10
+2011-04-04,Channel Islands,239
+2011-04-04,Cyprus,302
+2011-04-04,Czech Republic,15
+2011-04-04,Denmark,59
+2011-04-04,EIRE,1637
+2011-04-04,European Community,0
+2011-04-04,Finland,280
+2011-04-04,France,2121
+2011-04-04,Germany,2334
+2011-04-04,Greece,85
+2011-04-04,Iceland,84
+2011-04-04,Israel,16
+2011-04-04,Italy,258
+2011-04-04,Japan,198
+2011-04-04,Lebanon,45
+2011-04-04,Lithuania,35
+2011-04-04,Malta,0
+2011-04-04,Netherlands,694
+2011-04-04,Norway,202
+2011-04-04,Poland,95
+2011-04-04,Portugal,426
+2011-04-04,RSA,0
+2011-04-04,Saudi Arabia,9
+2011-04-04,Singapore,113
+2011-04-04,Spain,769
+2011-04-04,Sweden,107
+2011-04-04,Switzerland,368
+2011-04-04,USA,0
+2011-04-04,United Arab Emirates,30
+2011-04-04,United Kingdom,90873
+2011-04-04,Unspecified,16
+2011-04-11,Australia,373
+2011-04-11,Austria,47
+2011-04-11,Bahrain,0
+2011-04-11,Belgium,518
+2011-04-11,Brazil,32
+2011-04-11,Canada,10
+2011-04-11,Channel Islands,248
+2011-04-11,Cyprus,302
+2011-04-11,Czech Republic,15
+2011-04-11,Denmark,59
+2011-04-11,EIRE,1662
+2011-04-11,European Community,0
+2011-04-11,Finland,290
+2011-04-11,France,2183
+2011-04-11,Germany,2442
+2011-04-11,Greece,85
+2011-04-11,Iceland,84
+2011-04-11,Israel,16
+2011-04-11,Italy,258
+2011-04-11,Japan,212
+2011-04-11,Lebanon,45
+2011-04-11,Lithuania,35
+2011-04-11,Malta,0
+2011-04-11,Netherlands,694
+2011-04-11,Norway,202
+2011-04-11,Poland,95
+2011-04-11,Portugal,482
+2011-04-11,RSA,0
+2011-04-11,Saudi Arabia,9
+2011-04-11,Singapore,113
+2011-04-11,Spain,769
+2011-04-11,Sweden,129
+2011-04-11,Switzerland,392
+2011-04-11,USA,0
+2011-04-11,United Arab Emirates,30
+2011-04-11,United Kingdom,97129
+2011-04-11,Unspecified,16
+2011-04-18,Australia,373
+2011-04-18,Austria,47
+2011-04-18,Bahrain,0
+2011-04-18,Belgium,518
+2011-04-18,Brazil,32
+2011-04-18,Canada,10
+2011-04-18,Channel Islands,248
+2011-04-18,Cyprus,302
+2011-04-18,Czech Republic,15
+2011-04-18,Denmark,59
+2011-04-18,EIRE,1683
+2011-04-18,European Community,0
+2011-04-18,Finland,294
+2011-04-18,France,2246
+2011-04-18,Germany,2559
+2011-04-18,Greece,85
+2011-04-18,Iceland,84
+2011-04-18,Israel,16
+2011-04-18,Italy,266
+2011-04-18,Japan,212
+2011-04-18,Lebanon,45
+2011-04-18,Lithuania,35
+2011-04-18,Malta,0
+2011-04-18,Netherlands,694
+2011-04-18,Norway,202
+2011-04-18,Poland,95
+2011-04-18,Portugal,482
+2011-04-18,RSA,0
+2011-04-18,Saudi Arabia,9
+2011-04-18,Singapore,113
+2011-04-18,Spain,827
+2011-04-18,Sweden,129
+2011-04-18,Switzerland,447
+2011-04-18,USA,22
+2011-04-18,United Arab Emirates,30
+2011-04-18,United Kingdom,100238
+2011-04-18,Unspecified,16
+2011-04-25,Australia,373
+2011-04-25,Austria,73
+2011-04-25,Bahrain,0
+2011-04-25,Belgium,547
+2011-04-25,Brazil,32
+2011-04-25,Canada,10
+2011-04-25,Channel Islands,248
+2011-04-25,Cyprus,302
+2011-04-25,Czech Republic,15
+2011-04-25,Denmark,59
+2011-04-25,EIRE,1688
+2011-04-25,European Community,11
+2011-04-25,Finland,294
+2011-04-25,France,2282
+2011-04-25,Germany,2634
+2011-04-25,Greece,85
+2011-04-25,Iceland,84
+2011-04-25,Israel,16
+2011-04-25,Italy,266
+2011-04-25,Japan,212
+2011-04-25,Lebanon,45
+2011-04-25,Lithuania,35
+2011-04-25,Malta,0
+2011-04-25,Netherlands,703
+2011-04-25,Norway,202
+2011-04-25,Poland,95
+2011-04-25,Portugal,482
+2011-04-25,RSA,0
+2011-04-25,Saudi Arabia,9
+2011-04-25,Singapore,113
+2011-04-25,Spain,850
+2011-04-25,Sweden,141
+2011-04-25,Switzerland,447
+2011-04-25,USA,22
+2011-04-25,United Arab Emirates,30
+2011-04-25,United Kingdom,103692
+2011-04-25,Unspecified,16
+2011-05-02,Australia,373
+2011-05-02,Austria,79
+2011-05-02,Bahrain,13
+2011-05-02,Belgium,579
+2011-05-02,Brazil,32
+2011-05-02,Canada,11
+2011-05-02,Channel Islands,248
+2011-05-02,Cyprus,302
+2011-05-02,Czech Republic,15
+2011-05-02,Denmark,59
+2011-05-02,EIRE,1847
+2011-05-02,European Community,11
+2011-05-02,Finland,294
+2011-05-02,France,2434
+2011-05-02,Germany,2723
+2011-05-02,Greece,85
+2011-05-02,Iceland,84
+2011-05-02,Israel,16
+2011-05-02,Italy,266
+2011-05-02,Japan,212
+2011-05-02,Lebanon,45
+2011-05-02,Lithuania,35
+2011-05-02,Malta,0
+2011-05-02,Netherlands,703
+2011-05-02,Norway,202
+2011-05-02,Poland,106
+2011-05-02,Portugal,482
+2011-05-02,RSA,0
+2011-05-02,Saudi Arabia,9
+2011-05-02,Singapore,113
+2011-05-02,Spain,906
+2011-05-02,Sweden,141
+2011-05-02,Switzerland,556
+2011-05-02,USA,22
+2011-05-02,United Arab Emirates,30
+2011-05-02,United Kingdom,110180
+2011-05-02,Unspecified,16
+2011-05-09,Australia,396
+2011-05-09,Austria,79
+2011-05-09,Bahrain,13
+2011-05-09,Belgium,614
+2011-05-09,Brazil,32
+2011-05-09,Canada,11
+2011-05-09,Channel Islands,248
+2011-05-09,Cyprus,302
+2011-05-09,Czech Republic,15
+2011-05-09,Denmark,78
+2011-05-09,EIRE,2003
+2011-05-09,European Community,11
+2011-05-09,Finland,294
+2011-05-09,France,2661
+2011-05-09,Germany,2944
+2011-05-09,Greece,85
+2011-05-09,Iceland,84
+2011-05-09,Israel,16
+2011-05-09,Italy,266
+2011-05-09,Japan,224
+2011-05-09,Lebanon,45
+2011-05-09,Lithuania,35
+2011-05-09,Malta,0
+2011-05-09,Netherlands,820
+2011-05-09,Norway,202
+2011-05-09,Poland,106
+2011-05-09,Portugal,559
+2011-05-09,RSA,0
+2011-05-09,Saudi Arabia,9
+2011-05-09,Singapore,113
+2011-05-09,Spain,906
+2011-05-09,Sweden,158
+2011-05-09,Switzerland,556
+2011-05-09,USA,22
+2011-05-09,United Arab Emirates,30
+2011-05-09,United Kingdom,116751
+2011-05-09,Unspecified,63
+2011-05-16,Australia,489
+2011-05-16,Austria,124
+2011-05-16,Bahrain,17
+2011-05-16,Belgium,660
+2011-05-16,Brazil,32
+2011-05-16,Canada,11
+2011-05-16,Channel Islands,282
+2011-05-16,Cyprus,302
+2011-05-16,Czech Republic,15
+2011-05-16,Denmark,78
+2011-05-16,EIRE,2184
+2011-05-16,European Community,11
+2011-05-16,Finland,294
+2011-05-16,France,2865
+2011-05-16,Germany,3223
+2011-05-16,Greece,85
+2011-05-16,Iceland,84
+2011-05-16,Israel,16
+2011-05-16,Italy,266
+2011-05-16,Japan,224
+2011-05-16,Lebanon,45
+2011-05-16,Lithuania,35
+2011-05-16,Malta,0
+2011-05-16,Netherlands,838
+2011-05-16,Norway,202
+2011-05-16,Poland,106
+2011-05-16,Portugal,562
+2011-05-16,RSA,0
+2011-05-16,Saudi Arabia,9
+2011-05-16,Singapore,113
+2011-05-16,Spain,906
+2011-05-16,Sweden,160
+2011-05-16,Switzerland,556
+2011-05-16,USA,22
+2011-05-16,United Arab Emirates,30
+2011-05-16,United Kingdom,123537
+2011-05-16,Unspecified,63
+2011-05-23,Australia,489
+2011-05-23,Austria,124
+2011-05-23,Bahrain,17
+2011-05-23,Belgium,694
+2011-05-23,Brazil,32
+2011-05-23,Canada,11
+2011-05-23,Channel Islands,282
+2011-05-23,Cyprus,302
+2011-05-23,Czech Republic,15
+2011-05-23,Denmark,78
+2011-05-23,EIRE,2212
+2011-05-23,European Community,11
+2011-05-23,Finland,294
+2011-05-23,France,2986
+2011-05-23,Germany,3360
+2011-05-23,Greece,85
+2011-05-23,Iceland,84
+2011-05-23,Israel,16
+2011-05-23,Italy,266
+2011-05-23,Japan,224
+2011-05-23,Lebanon,45
+2011-05-23,Lithuania,35
+2011-05-23,Malta,0
+2011-05-23,Netherlands,889
+2011-05-23,Norway,202
+2011-05-23,Poland,164
+2011-05-23,Portugal,562
+2011-05-23,RSA,0
+2011-05-23,Saudi Arabia,9
+2011-05-23,Singapore,113
+2011-05-23,Spain,908
+2011-05-23,Sweden,160
+2011-05-23,Switzerland,556
+2011-05-23,USA,22
+2011-05-23,United Arab Emirates,30
+2011-05-23,United Kingdom,127506
+2011-05-23,Unspecified,63
+2011-05-30,Australia,489
+2011-05-30,Austria,124
+2011-05-30,Bahrain,17
+2011-05-30,Belgium,770
+2011-05-30,Brazil,32
+2011-05-30,Canada,11
+2011-05-30,Channel Islands,282
+2011-05-30,Cyprus,349
+2011-05-30,Czech Republic,15
+2011-05-30,Denmark,78
+2011-05-30,EIRE,2257
+2011-05-30,European Community,31
+2011-05-30,Finland,294
+2011-05-30,France,3091
+2011-05-30,Germany,3660
+2011-05-30,Greece,85
+2011-05-30,Iceland,84
+2011-05-30,Israel,16
+2011-05-30,Italy,289
+2011-05-30,Japan,224
+2011-05-30,Lebanon,45
+2011-05-30,Lithuania,35
+2011-05-30,Malta,0
+2011-05-30,Netherlands,984
+2011-05-30,Norway,202
+2011-05-30,Poland,165
+2011-05-30,Portugal,562
+2011-05-30,RSA,0
+2011-05-30,Saudi Arabia,9
+2011-05-30,Singapore,113
+2011-05-30,Spain,991
+2011-05-30,Sweden,165
+2011-05-30,Switzerland,598
+2011-05-30,USA,22
+2011-05-30,United Arab Emirates,30
+2011-05-30,United Kingdom,132473
+2011-05-30,Unspecified,63
+2011-06-06,Australia,489
+2011-06-06,Austria,124
+2011-06-06,Bahrain,17
+2011-06-06,Belgium,816
+2011-06-06,Brazil,32
+2011-06-06,Canada,11
+2011-06-06,Channel Islands,282
+2011-06-06,Cyprus,349
+2011-06-06,Czech Republic,15
+2011-06-06,Denmark,127
+2011-06-06,EIRE,2425
+2011-06-06,European Community,31
+2011-06-06,Finland,294
+2011-06-06,France,3342
+2011-06-06,Germany,3807
+2011-06-06,Greece,85
+2011-06-06,Iceland,102
+2011-06-06,Israel,16
+2011-06-06,Italy,299
+2011-06-06,Japan,224
+2011-06-06,Lebanon,45
+2011-06-06,Lithuania,35
+2011-06-06,Malta,44
+2011-06-06,Netherlands,989
+2011-06-06,Norway,202
+2011-06-06,Poland,165
+2011-06-06,Portugal,585
+2011-06-06,RSA,0
+2011-06-06,Saudi Arabia,9
+2011-06-06,Singapore,113
+2011-06-06,Spain,1039
+2011-06-06,Sweden,176
+2011-06-06,Switzerland,678
+2011-06-06,USA,22
+2011-06-06,United Arab Emirates,30
+2011-06-06,United Kingdom,138706
+2011-06-06,Unspecified,63
+2011-06-13,Australia,628
+2011-06-13,Austria,124
+2011-06-13,Bahrain,17
+2011-06-13,Belgium,868
+2011-06-13,Brazil,32
+2011-06-13,Canada,68
+2011-06-13,Channel Islands,363
+2011-06-13,Cyprus,349
+2011-06-13,Czech Republic,15
+2011-06-13,Denmark,156
+2011-06-13,EIRE,2536
+2011-06-13,European Community,31
+2011-06-13,Finland,294
+2011-06-13,France,3482
+2011-06-13,Germany,3902
+2011-06-13,Greece,85
+2011-06-13,Iceland,102
+2011-06-13,Israel,16
+2011-06-13,Italy,299
+2011-06-13,Japan,224
+2011-06-13,Lebanon,45
+2011-06-13,Lithuania,35
+2011-06-13,Malta,44
+2011-06-13,Netherlands,1100
+2011-06-13,Norway,277
+2011-06-13,Poland,180
+2011-06-13,Portugal,610
+2011-06-13,RSA,0
+2011-06-13,Saudi Arabia,9
+2011-06-13,Singapore,113
+2011-06-13,Spain,1131
+2011-06-13,Sweden,176
+2011-06-13,Switzerland,678
+2011-06-13,USA,22
+2011-06-13,United Arab Emirates,30
+2011-06-13,United Kingdom,144363
+2011-06-13,Unspecified,72
+2011-06-20,Australia,628
+2011-06-20,Austria,124
+2011-06-20,Bahrain,17
+2011-06-20,Belgium,914
+2011-06-20,Brazil,32
+2011-06-20,Canada,68
+2011-06-20,Channel Islands,363
+2011-06-20,Cyprus,349
+2011-06-20,Czech Republic,15
+2011-06-20,Denmark,184
+2011-06-20,EIRE,2693
+2011-06-20,European Community,31
+2011-06-20,Finland,307
+2011-06-20,France,3569
+2011-06-20,Germany,3952
+2011-06-20,Greece,85
+2011-06-20,Iceland,102
+2011-06-20,Israel,16
+2011-06-20,Italy,299
+2011-06-20,Japan,230
+2011-06-20,Lebanon,45
+2011-06-20,Lithuania,35
+2011-06-20,Malta,45
+2011-06-20,Netherlands,1139
+2011-06-20,Norway,368
+2011-06-20,Poland,180
+2011-06-20,Portugal,610
+2011-06-20,RSA,0
+2011-06-20,Saudi Arabia,9
+2011-06-20,Singapore,113
+2011-06-20,Spain,1136
+2011-06-20,Sweden,195
+2011-06-20,Switzerland,723
+2011-06-20,USA,22
+2011-06-20,United Arab Emirates,30
+2011-06-20,United Kingdom,149449
+2011-06-20,Unspecified,72
+2011-06-27,Australia,658
+2011-06-27,Austria,124
+2011-06-27,Bahrain,17
+2011-06-27,Belgium,924
+2011-06-27,Brazil,32
+2011-06-27,Canada,68
+2011-06-27,Channel Islands,363
+2011-06-27,Cyprus,349
+2011-06-27,Czech Republic,15
+2011-06-27,Denmark,184
+2011-06-27,EIRE,2806
+2011-06-27,European Community,31
+2011-06-27,Finland,307
+2011-06-27,France,3619
+2011-06-27,Germany,4080
+2011-06-27,Greece,85
+2011-06-27,Iceland,102
+2011-06-27,Israel,16
+2011-06-27,Italy,299
+2011-06-27,Japan,230
+2011-06-27,Lebanon,45
+2011-06-27,Lithuania,35
+2011-06-27,Malta,45
+2011-06-27,Netherlands,1242
+2011-06-27,Norway,368
+2011-06-27,Poland,180
+2011-06-27,Portugal,610
+2011-06-27,RSA,0
+2011-06-27,Saudi Arabia,9
+2011-06-27,Singapore,113
+2011-06-27,Spain,1151
+2011-06-27,Sweden,195
+2011-06-27,Switzerland,736
+2011-06-27,USA,22
+2011-06-27,United Arab Emirates,30
+2011-06-27,United Kingdom,153819
+2011-06-27,Unspecified,72
+2011-07-04,Australia,658
+2011-07-04,Austria,124
+2011-07-04,Bahrain,17
+2011-07-04,Belgium,976
+2011-07-04,Brazil,32
+2011-07-04,Canada,145
+2011-07-04,Channel Islands,363
+2011-07-04,Cyprus,349
+2011-07-04,Czech Republic,15
+2011-07-04,Denmark,184
+2011-07-04,EIRE,2813
+2011-07-04,European Community,31
+2011-07-04,Finland,327
+2011-07-04,France,3809
+2011-07-04,Germany,4191
+2011-07-04,Greece,109
+2011-07-04,Iceland,102
+2011-07-04,Israel,16
+2011-07-04,Italy,299
+2011-07-04,Japan,230
+2011-07-04,Lebanon,45
+2011-07-04,Lithuania,35
+2011-07-04,Malta,45
+2011-07-04,Netherlands,1242
+2011-07-04,Norway,368
+2011-07-04,Poland,180
+2011-07-04,Portugal,610
+2011-07-04,RSA,0
+2011-07-04,Saudi Arabia,9
+2011-07-04,Singapore,113
+2011-07-04,Spain,1255
+2011-07-04,Sweden,215
+2011-07-04,Switzerland,770
+2011-07-04,USA,22
+2011-07-04,United Arab Emirates,30
+2011-07-04,United Kingdom,159092
+2011-07-04,Unspecified,72
+2011-07-11,Australia,716
+2011-07-11,Austria,136
+2011-07-11,Bahrain,17
+2011-07-11,Belgium,978
+2011-07-11,Brazil,32
+2011-07-11,Canada,146
+2011-07-11,Channel Islands,363
+2011-07-11,Cyprus,349
+2011-07-11,Czech Republic,15
+2011-07-11,Denmark,184
+2011-07-11,EIRE,2955
+2011-07-11,European Community,31
+2011-07-11,Finland,381
+2011-07-11,France,3938
+2011-07-11,Germany,4318
+2011-07-11,Greece,109
+2011-07-11,Iceland,102
+2011-07-11,Israel,43
+2011-07-11,Italy,299
+2011-07-11,Japan,230
+2011-07-11,Lebanon,45
+2011-07-11,Lithuania,35
+2011-07-11,Malta,45
+2011-07-11,Netherlands,1242
+2011-07-11,Norway,368
+2011-07-11,Poland,212
+2011-07-11,Portugal,671
+2011-07-11,RSA,0
+2011-07-11,Saudi Arabia,9
+2011-07-11,Singapore,188
+2011-07-11,Spain,1255
+2011-07-11,Sweden,215
+2011-07-11,Switzerland,770
+2011-07-11,USA,22
+2011-07-11,United Arab Emirates,30
+2011-07-11,United Kingdom,164721
+2011-07-11,Unspecified,87
+2011-07-18,Australia,816
+2011-07-18,Austria,136
+2011-07-18,Bahrain,17
+2011-07-18,Belgium,978
+2011-07-18,Brazil,32
+2011-07-18,Canada,146
+2011-07-18,Channel Islands,363
+2011-07-18,Cyprus,349
+2011-07-18,Czech Republic,15
+2011-07-18,Denmark,201
+2011-07-18,EIRE,3152
+2011-07-18,European Community,60
+2011-07-18,Finland,390
+2011-07-18,France,3967
+2011-07-18,Germany,4743
+2011-07-18,Greece,109
+2011-07-18,Iceland,102
+2011-07-18,Israel,43
+2011-07-18,Italy,299
+2011-07-18,Japan,232
+2011-07-18,Lebanon,45
+2011-07-18,Lithuania,35
+2011-07-18,Malta,45
+2011-07-18,Netherlands,1252
+2011-07-18,Norway,417
+2011-07-18,Poland,212
+2011-07-18,Portugal,699
+2011-07-18,RSA,0
+2011-07-18,Saudi Arabia,9
+2011-07-18,Singapore,188
+2011-07-18,Spain,1306
+2011-07-18,Sweden,215
+2011-07-18,Switzerland,782
+2011-07-18,USA,22
+2011-07-18,United Arab Emirates,30
+2011-07-18,United Kingdom,170597
+2011-07-18,Unspecified,87
+2011-07-25,Australia,817
+2011-07-25,Austria,179
+2011-07-25,Bahrain,17
+2011-07-25,Belgium,1052
+2011-07-25,Brazil,32
+2011-07-25,Canada,146
+2011-07-25,Channel Islands,376
+2011-07-25,Cyprus,349
+2011-07-25,Czech Republic,15
+2011-07-25,Denmark,201
+2011-07-25,EIRE,3366
+2011-07-25,European Community,60
+2011-07-25,Finland,390
+2011-07-25,France,4025
+2011-07-25,Germany,4832
+2011-07-25,Greece,109
+2011-07-25,Iceland,102
+2011-07-25,Israel,43
+2011-07-25,Italy,305
+2011-07-25,Japan,269
+2011-07-25,Lebanon,45
+2011-07-25,Lithuania,35
+2011-07-25,Malta,45
+2011-07-25,Netherlands,1252
+2011-07-25,Norway,417
+2011-07-25,Poland,212
+2011-07-25,Portugal,699
+2011-07-25,RSA,0
+2011-07-25,Saudi Arabia,9
+2011-07-25,Singapore,188
+2011-07-25,Spain,1313
+2011-07-25,Sweden,249
+2011-07-25,Switzerland,849
+2011-07-25,USA,22
+2011-07-25,United Arab Emirates,30
+2011-07-25,United Kingdom,175971
+2011-07-25,Unspecified,218
+2011-08-01,Australia,817
+2011-08-01,Austria,237
+2011-08-01,Bahrain,17
+2011-08-01,Belgium,1112
+2011-08-01,Brazil,32
+2011-08-01,Canada,146
+2011-08-01,Channel Islands,376
+2011-08-01,Cyprus,349
+2011-08-01,Czech Republic,15
+2011-08-01,Denmark,201
+2011-08-01,EIRE,3599
+2011-08-01,European Community,60
+2011-08-01,Finland,407
+2011-08-01,France,4107
+2011-08-01,Germany,5048
+2011-08-01,Greece,109
+2011-08-01,Iceland,124
+2011-08-01,Israel,43
+2011-08-01,Italy,360
+2011-08-01,Japan,269
+2011-08-01,Lebanon,45
+2011-08-01,Lithuania,35
+2011-08-01,Malta,45
+2011-08-01,Netherlands,1252
+2011-08-01,Norway,417
+2011-08-01,Poland,227
+2011-08-01,Portugal,699
+2011-08-01,RSA,0
+2011-08-01,Saudi Arabia,9
+2011-08-01,Singapore,188
+2011-08-01,Spain,1349
+2011-08-01,Sweden,258
+2011-08-01,Switzerland,1068
+2011-08-01,USA,22
+2011-08-01,United Arab Emirates,30
+2011-08-01,United Kingdom,181466
+2011-08-01,Unspecified,218
+2011-08-08,Australia,827
+2011-08-08,Austria,237
+2011-08-08,Bahrain,17
+2011-08-08,Belgium,1154
+2011-08-08,Brazil,32
+2011-08-08,Canada,146
+2011-08-08,Channel Islands,376
+2011-08-08,Cyprus,349
+2011-08-08,Czech Republic,15
+2011-08-08,Denmark,217
+2011-08-08,EIRE,3763
+2011-08-08,European Community,60
+2011-08-08,Finland,431
+2011-08-08,France,4185
+2011-08-08,Germany,5064
+2011-08-08,Greece,109
+2011-08-08,Iceland,124
+2011-08-08,Israel,43
+2011-08-08,Italy,382
+2011-08-08,Japan,269
+2011-08-08,Lebanon,45
+2011-08-08,Lithuania,35
+2011-08-08,Malta,90
+2011-08-08,Netherlands,1484
+2011-08-08,Norway,494
+2011-08-08,Poland,227
+2011-08-08,Portugal,740
+2011-08-08,RSA,0
+2011-08-08,Saudi Arabia,9
+2011-08-08,Singapore,188
+2011-08-08,Spain,1349
+2011-08-08,Sweden,258
+2011-08-08,Switzerland,1082
+2011-08-08,USA,22
+2011-08-08,United Arab Emirates,30
+2011-08-08,United Kingdom,185855
+2011-08-08,Unspecified,218
+2011-08-15,Australia,924
+2011-08-15,Austria,267
+2011-08-15,Bahrain,17
+2011-08-15,Belgium,1195
+2011-08-15,Brazil,32
+2011-08-15,Canada,146
+2011-08-15,Channel Islands,380
+2011-08-15,Cyprus,349
+2011-08-15,Czech Republic,15
+2011-08-15,Denmark,217
+2011-08-15,EIRE,3884
+2011-08-15,European Community,60
+2011-08-15,Finland,431
+2011-08-15,France,4325
+2011-08-15,Germany,5238
+2011-08-15,Greece,109
+2011-08-15,Iceland,124
+2011-08-15,Israel,214
+2011-08-15,Italy,382
+2011-08-15,Japan,269
+2011-08-15,Lebanon,45
+2011-08-15,Lithuania,35
+2011-08-15,Malta,100
+2011-08-15,Netherlands,1484
+2011-08-15,Norway,494
+2011-08-15,Poland,227
+2011-08-15,Portugal,740
+2011-08-15,RSA,0
+2011-08-15,Saudi Arabia,9
+2011-08-15,Singapore,188
+2011-08-15,Spain,1408
+2011-08-15,Sweden,268
+2011-08-15,Switzerland,1116
+2011-08-15,USA,22
+2011-08-15,United Arab Emirates,30
+2011-08-15,United Kingdom,191874
+2011-08-15,Unspecified,241
+2011-08-22,Australia,924
+2011-08-22,Austria,267
+2011-08-22,Bahrain,17
+2011-08-22,Belgium,1234
+2011-08-22,Brazil,32
+2011-08-22,Canada,151
+2011-08-22,Channel Islands,502
+2011-08-22,Cyprus,349
+2011-08-22,Czech Republic,15
+2011-08-22,Denmark,217
+2011-08-22,EIRE,3955
+2011-08-22,European Community,60
+2011-08-22,Finland,451
+2011-08-22,France,4562
+2011-08-22,Germany,5403
+2011-08-22,Greece,109
+2011-08-22,Iceland,124
+2011-08-22,Israel,214
+2011-08-22,Italy,400
+2011-08-22,Japan,269
+2011-08-22,Lebanon,45
+2011-08-22,Lithuania,35
+2011-08-22,Malta,100
+2011-08-22,Netherlands,1528
+2011-08-22,Norway,494
+2011-08-22,Poland,227
+2011-08-22,Portugal,740
+2011-08-22,RSA,0
+2011-08-22,Saudi Arabia,9
+2011-08-22,Singapore,188
+2011-08-22,Spain,1546
+2011-08-22,Sweden,288
+2011-08-22,Switzerland,1116
+2011-08-22,USA,22
+2011-08-22,United Arab Emirates,30
+2011-08-22,United Kingdom,197036
+2011-08-22,Unspecified,241
+2011-08-29,Australia,941
+2011-08-29,Austria,267
+2011-08-29,Bahrain,17
+2011-08-29,Belgium,1263
+2011-08-29,Brazil,32
+2011-08-29,Canada,151
+2011-08-29,Channel Islands,502
+2011-08-29,Cyprus,349
+2011-08-29,Czech Republic,15
+2011-08-29,Denmark,217
+2011-08-29,EIRE,4062
+2011-08-29,European Community,60
+2011-08-29,Finland,462
+2011-08-29,France,4709
+2011-08-29,Germany,5721
+2011-08-29,Greece,109
+2011-08-29,Iceland,124
+2011-08-29,Israel,214
+2011-08-29,Italy,400
+2011-08-29,Japan,269
+2011-08-29,Lebanon,45
+2011-08-29,Lithuania,35
+2011-08-29,Malta,100
+2011-08-29,Netherlands,1528
+2011-08-29,Norway,510
+2011-08-29,Poland,259
+2011-08-29,Portugal,760
+2011-08-29,RSA,0
+2011-08-29,Saudi Arabia,9
+2011-08-29,Singapore,188
+2011-08-29,Spain,1602
+2011-08-29,Sweden,302
+2011-08-29,Switzerland,1116
+2011-08-29,USA,22
+2011-08-29,United Arab Emirates,67
+2011-08-29,United Kingdom,202506
+2011-08-29,Unspecified,241
+2011-09-05,Australia,941
+2011-09-05,Austria,267
+2011-09-05,Bahrain,17
+2011-09-05,Belgium,1308
+2011-09-05,Brazil,32
+2011-09-05,Canada,151
+2011-09-05,Channel Islands,502
+2011-09-05,Cyprus,349
+2011-09-05,Czech Republic,15
+2011-09-05,Denmark,217
+2011-09-05,EIRE,4313
+2011-09-05,European Community,60
+2011-09-05,Finland,462
+2011-09-05,France,5043
+2011-09-05,Germany,5909
+2011-09-05,Greece,109
+2011-09-05,Iceland,124
+2011-09-05,Israel,214
+2011-09-05,Italy,400
+2011-09-05,Japan,269
+2011-09-05,Lebanon,45
+2011-09-05,Lithuania,35
+2011-09-05,Malta,100
+2011-09-05,Netherlands,1588
+2011-09-05,Norway,591
+2011-09-05,Poland,259
+2011-09-05,Portugal,760
+2011-09-05,RSA,0
+2011-09-05,Saudi Arabia,9
+2011-09-05,Singapore,188
+2011-09-05,Spain,1625
+2011-09-05,Sweden,302
+2011-09-05,Switzerland,1117
+2011-09-05,USA,22
+2011-09-05,United Arab Emirates,67
+2011-09-05,United Kingdom,209585
+2011-09-05,Unspecified,241
+2011-09-12,Australia,975
+2011-09-12,Austria,267
+2011-09-12,Bahrain,17
+2011-09-12,Belgium,1328
+2011-09-12,Brazil,32
+2011-09-12,Canada,151
+2011-09-12,Channel Islands,550
+2011-09-12,Cyprus,350
+2011-09-12,Czech Republic,15
+2011-09-12,Denmark,217
+2011-09-12,EIRE,4412
+2011-09-12,European Community,60
+2011-09-12,Finland,466
+2011-09-12,France,5223
+2011-09-12,Germany,6015
+2011-09-12,Greece,109
+2011-09-12,Iceland,124
+2011-09-12,Israel,214
+2011-09-12,Italy,400
+2011-09-12,Japan,273
+2011-09-12,Lebanon,45
+2011-09-12,Lithuania,35
+2011-09-12,Malta,100
+2011-09-12,Netherlands,1749
+2011-09-12,Norway,664
+2011-09-12,Poland,259
+2011-09-12,Portugal,760
+2011-09-12,RSA,0
+2011-09-12,Saudi Arabia,9
+2011-09-12,Singapore,188
+2011-09-12,Spain,1661
+2011-09-12,Sweden,319
+2011-09-12,Switzerland,1152
+2011-09-12,USA,22
+2011-09-12,United Arab Emirates,67
+2011-09-12,United Kingdom,217232
+2011-09-12,Unspecified,241
+2011-09-19,Australia,997
+2011-09-19,Austria,267
+2011-09-19,Bahrain,17
+2011-09-19,Belgium,1390
+2011-09-19,Brazil,32
+2011-09-19,Canada,151
+2011-09-19,Channel Islands,567
+2011-09-19,Cyprus,350
+2011-09-19,Czech Republic,15
+2011-09-19,Denmark,250
+2011-09-19,EIRE,4842
+2011-09-19,European Community,60
+2011-09-19,Finland,484
+2011-09-19,France,5457
+2011-09-19,Germany,6231
+2011-09-19,Greece,109
+2011-09-19,Iceland,124
+2011-09-19,Israel,214
+2011-09-19,Italy,415
+2011-09-19,Japan,273
+2011-09-19,Lebanon,45
+2011-09-19,Lithuania,35
+2011-09-19,Malta,100
+2011-09-19,Netherlands,1770
+2011-09-19,Norway,682
+2011-09-19,Poland,259
+2011-09-19,Portugal,814
+2011-09-19,RSA,0
+2011-09-19,Saudi Arabia,9
+2011-09-19,Singapore,188
+2011-09-19,Spain,1786
+2011-09-19,Sweden,319
+2011-09-19,Switzerland,1197
+2011-09-19,USA,22
+2011-09-19,United Arab Emirates,68
+2011-09-19,United Kingdom,226784
+2011-09-19,Unspecified,241
+2011-09-26,Australia,1026
+2011-09-26,Austria,267
+2011-09-26,Bahrain,17
+2011-09-26,Belgium,1430
+2011-09-26,Brazil,32
+2011-09-26,Canada,151
+2011-09-26,Channel Islands,567
+2011-09-26,Cyprus,350
+2011-09-26,Czech Republic,15
+2011-09-26,Denmark,263
+2011-09-26,EIRE,5028
+2011-09-26,European Community,60
+2011-09-26,Finland,484
+2011-09-26,France,5703
+2011-09-26,Germany,6335
+2011-09-26,Greece,109
+2011-09-26,Iceland,124
+2011-09-26,Israel,214
+2011-09-26,Italy,415
+2011-09-26,Japan,273
+2011-09-26,Lebanon,45
+2011-09-26,Lithuania,35
+2011-09-26,Malta,100
+2011-09-26,Netherlands,1770
+2011-09-26,Norway,696
+2011-09-26,Poland,259
+2011-09-26,Portugal,814
+2011-09-26,RSA,0
+2011-09-26,Saudi Arabia,9
+2011-09-26,Singapore,188
+2011-09-26,Spain,1805
+2011-09-26,Sweden,326
+2011-09-26,Switzerland,1308
+2011-09-26,USA,22
+2011-09-26,United Arab Emirates,68
+2011-09-26,United Kingdom,236282
+2011-09-26,Unspecified,241
+2011-10-03,Australia,1140
+2011-10-03,Austria,267
+2011-10-03,Bahrain,17
+2011-10-03,Belgium,1464
+2011-10-03,Brazil,32
+2011-10-03,Canada,151
+2011-10-03,Channel Islands,648
+2011-10-03,Cyprus,380
+2011-10-03,Czech Republic,25
+2011-10-03,Denmark,269
+2011-10-03,EIRE,5184
+2011-10-03,European Community,60
+2011-10-03,Finland,486
+2011-10-03,France,5931
+2011-10-03,Germany,6734
+2011-10-03,Greece,109
+2011-10-03,Iceland,124
+2011-10-03,Israel,245
+2011-10-03,Italy,415
+2011-10-03,Japan,273
+2011-10-03,Lebanon,45
+2011-10-03,Lithuania,35
+2011-10-03,Malta,100
+2011-10-03,Netherlands,1808
+2011-10-03,Norway,696
+2011-10-03,Poland,259
+2011-10-03,Portugal,1030
+2011-10-03,RSA,0
+2011-10-03,Saudi Arabia,9
+2011-10-03,Singapore,188
+2011-10-03,Spain,1827
+2011-10-03,Sweden,326
+2011-10-03,Switzerland,1408
+2011-10-03,USA,123
+2011-10-03,United Arab Emirates,68
+2011-10-03,United Kingdom,247269
+2011-10-03,Unspecified,241
+2011-10-10,Australia,1140
+2011-10-10,Austria,267
+2011-10-10,Bahrain,17
+2011-10-10,Belgium,1575
+2011-10-10,Brazil,32
+2011-10-10,Canada,151
+2011-10-10,Channel Islands,669
+2011-10-10,Cyprus,482
+2011-10-10,Czech Republic,25
+2011-10-10,Denmark,281
+2011-10-10,EIRE,5535
+2011-10-10,European Community,60
+2011-10-10,Finland,553
+2011-10-10,France,6282
+2011-10-10,Germany,7191
+2011-10-10,Greece,109
+2011-10-10,Iceland,124
+2011-10-10,Israel,245
+2011-10-10,Italy,429
+2011-10-10,Japan,273
+2011-10-10,Lebanon,45
+2011-10-10,Lithuania,35
+2011-10-10,Malta,100
+2011-10-10,Netherlands,1808
+2011-10-10,Norway,715
+2011-10-10,Poland,259
+2011-10-10,Portugal,1207
+2011-10-10,RSA,57
+2011-10-10,Saudi Arabia,9
+2011-10-10,Singapore,220
+2011-10-10,Spain,1842
+2011-10-10,Sweden,357
+2011-10-10,Switzerland,1491
+2011-10-10,USA,123
+2011-10-10,United Arab Emirates,68
+2011-10-10,United Kingdom,255547
+2011-10-10,Unspecified,241
+2011-10-17,Australia,1140
+2011-10-17,Austria,321
+2011-10-17,Bahrain,17
+2011-10-17,Belgium,1588
+2011-10-17,Brazil,32
+2011-10-17,Canada,151
+2011-10-17,Channel Islands,669
+2011-10-17,Cyprus,510
+2011-10-17,Czech Republic,25
+2011-10-17,Denmark,286
+2011-10-17,EIRE,5840
+2011-10-17,European Community,60
+2011-10-17,Finland,553
+2011-10-17,France,6356
+2011-10-17,Germany,7463
+2011-10-17,Greece,109
+2011-10-17,Iceland,124
+2011-10-17,Israel,245
+2011-10-17,Italy,518
+2011-10-17,Japan,273
+2011-10-17,Lebanon,45
+2011-10-17,Lithuania,35
+2011-10-17,Malta,100
+2011-10-17,Netherlands,2020
+2011-10-17,Norway,715
+2011-10-17,Poland,259
+2011-10-17,Portugal,1209
+2011-10-17,RSA,57
+2011-10-17,Saudi Arabia,9
+2011-10-17,Singapore,222
+2011-10-17,Spain,1973
+2011-10-17,Sweden,357
+2011-10-17,Switzerland,1491
+2011-10-17,USA,147
+2011-10-17,United Arab Emirates,68
+2011-10-17,United Kingdom,265236
+2011-10-17,Unspecified,241
+2011-10-24,Australia,1140
+2011-10-24,Austria,321
+2011-10-24,Bahrain,17
+2011-10-24,Belgium,1694
+2011-10-24,Brazil,32
+2011-10-24,Canada,151
+2011-10-24,Channel Islands,669
+2011-10-24,Cyprus,510
+2011-10-24,Czech Republic,25
+2011-10-24,Denmark,286
+2011-10-24,EIRE,5898
+2011-10-24,European Community,60
+2011-10-24,Finland,598
+2011-10-24,France,6513
+2011-10-24,Germany,7620
+2011-10-24,Greece,109
+2011-10-24,Iceland,171
+2011-10-24,Israel,245
+2011-10-24,Italy,574
+2011-10-24,Japan,289
+2011-10-24,Lebanon,45
+2011-10-24,Lithuania,35
+2011-10-24,Malta,100
+2011-10-24,Netherlands,2048
+2011-10-24,Norway,816
+2011-10-24,Poland,259
+2011-10-24,Portugal,1209
+2011-10-24,RSA,57
+2011-10-24,Saudi Arabia,9
+2011-10-24,Singapore,222
+2011-10-24,Spain,2111
+2011-10-24,Sweden,373
+2011-10-24,Switzerland,1616
+2011-10-24,USA,147
+2011-10-24,United Arab Emirates,68
+2011-10-24,United Kingdom,276220
+2011-10-24,Unspecified,241
+2011-10-31,Australia,1146
+2011-10-31,Austria,321
+2011-10-31,Bahrain,17
+2011-10-31,Belgium,1789
+2011-10-31,Brazil,32
+2011-10-31,Canada,151
+2011-10-31,Channel Islands,733
+2011-10-31,Cyprus,510
+2011-10-31,Czech Republic,25
+2011-10-31,Denmark,286
+2011-10-31,EIRE,6028
+2011-10-31,European Community,60
+2011-10-31,Finland,612
+2011-10-31,France,6759
+2011-10-31,Germany,7730
+2011-10-31,Greece,109
+2011-10-31,Iceland,171
+2011-10-31,Israel,245
+2011-10-31,Italy,576
+2011-10-31,Japan,289
+2011-10-31,Lebanon,45
+2011-10-31,Lithuania,35
+2011-10-31,Malta,100
+2011-10-31,Netherlands,2118
+2011-10-31,Norway,847
+2011-10-31,Poland,330
+2011-10-31,Portugal,1234
+2011-10-31,RSA,57
+2011-10-31,Saudi Arabia,9
+2011-10-31,Singapore,222
+2011-10-31,Spain,2193
+2011-10-31,Sweden,412
+2011-10-31,Switzerland,1747
+2011-10-31,USA,147
+2011-10-31,United Arab Emirates,68
+2011-10-31,United Kingdom,287917
+2011-10-31,Unspecified,241
+2011-11-07,Australia,1146
+2011-11-07,Austria,391
+2011-11-07,Bahrain,17
+2011-11-07,Belgium,1817
+2011-11-07,Brazil,32
+2011-11-07,Canada,151
+2011-11-07,Channel Islands,733
+2011-11-07,Cyprus,510
+2011-11-07,Czech Republic,25
+2011-11-07,Denmark,286
+2011-11-07,EIRE,6281
+2011-11-07,European Community,60
+2011-11-07,Finland,627
+2011-11-07,France,7226
+2011-11-07,Germany,7955
+2011-11-07,Greece,109
+2011-11-07,Iceland,171
+2011-11-07,Israel,245
+2011-11-07,Italy,576
+2011-11-07,Japan,289
+2011-11-07,Lebanon,45
+2011-11-07,Lithuania,35
+2011-11-07,Malta,100
+2011-11-07,Netherlands,2183
+2011-11-07,Norway,847
+2011-11-07,Poland,330
+2011-11-07,Portugal,1263
+2011-11-07,RSA,57
+2011-11-07,Saudi Arabia,9
+2011-11-07,Singapore,222
+2011-11-07,Spain,2262
+2011-11-07,Sweden,435
+2011-11-07,Switzerland,1760
+2011-11-07,USA,147
+2011-11-07,United Arab Emirates,68
+2011-11-07,United Kingdom,302050
+2011-11-07,Unspecified,241
+2011-11-14,Australia,1173
+2011-11-14,Austria,391
+2011-11-14,Bahrain,17
+2011-11-14,Belgium,1911
+2011-11-14,Brazil,32
+2011-11-14,Canada,151
+2011-11-14,Channel Islands,742
+2011-11-14,Cyprus,603
+2011-11-14,Czech Republic,25
+2011-11-14,Denmark,342
+2011-11-14,EIRE,6611
+2011-11-14,European Community,60
+2011-11-14,Finland,635
+2011-11-14,France,7536
+2011-11-14,Germany,8315
+2011-11-14,Greece,109
+2011-11-14,Iceland,171
+2011-11-14,Israel,245
+2011-11-14,Italy,713
+2011-11-14,Japan,320
+2011-11-14,Lebanon,45
+2011-11-14,Lithuania,35
+2011-11-14,Malta,112
+2011-11-14,Netherlands,2196
+2011-11-14,Norway,881
+2011-11-14,Poland,330
+2011-11-14,Portugal,1279
+2011-11-14,RSA,57
+2011-11-14,Saudi Arabia,9
+2011-11-14,Singapore,222
+2011-11-14,Spain,2370
+2011-11-14,Sweden,443
+2011-11-14,Switzerland,1804
+2011-11-14,USA,147
+2011-11-14,United Arab Emirates,68
+2011-11-14,United Kingdom,315523
+2011-11-14,Unspecified,241
+2011-11-21,Australia,1181
+2011-11-21,Austria,391
+2011-11-21,Bahrain,17
+2011-11-21,Belgium,1932
+2011-11-21,Brazil,32
+2011-11-21,Canada,151
+2011-11-21,Channel Islands,742
+2011-11-21,Cyprus,603
+2011-11-21,Czech Republic,25
+2011-11-21,Denmark,342
+2011-11-21,EIRE,6849
+2011-11-21,European Community,60
+2011-11-21,Finland,637
+2011-11-21,France,7826
+2011-11-21,Germany,8640
+2011-11-21,Greece,109
+2011-11-21,Iceland,171
+2011-11-21,Israel,245
+2011-11-21,Italy,750
+2011-11-21,Japan,320
+2011-11-21,Lebanon,45
+2011-11-21,Lithuania,35
+2011-11-21,Malta,112
+2011-11-21,Netherlands,2269
+2011-11-21,Norway,930
+2011-11-21,Poland,330
+2011-11-21,Portugal,1351
+2011-11-21,RSA,57
+2011-11-21,Saudi Arabia,9
+2011-11-21,Singapore,222
+2011-11-21,Spain,2383
+2011-11-21,Sweden,449
+2011-11-21,Switzerland,1826
+2011-11-21,USA,147
+2011-11-21,United Arab Emirates,68
+2011-11-21,United Kingdom,329420
+2011-11-21,Unspecified,241
+2011-11-28,Australia,1181
+2011-11-28,Austria,391
+2011-11-28,Bahrain,17
+2011-11-28,Belgium,1964
+2011-11-28,Brazil,32
+2011-11-28,Canada,151
+2011-11-28,Channel Islands,747
+2011-11-28,Cyprus,603
+2011-11-28,Czech Republic,25
+2011-11-28,Denmark,380
+2011-11-28,EIRE,6988
+2011-11-28,European Community,60
+2011-11-28,Finland,685
+2011-11-28,France,8190
+2011-11-28,Germany,8814
+2011-11-28,Greece,109
+2011-11-28,Iceland,171
+2011-11-28,Israel,245
+2011-11-28,Italy,750
+2011-11-28,Japan,321
+2011-11-28,Lebanon,45
+2011-11-28,Lithuania,35
+2011-11-28,Malta,112
+2011-11-28,Netherlands,2273
+2011-11-28,Norway,1005
+2011-11-28,Poland,330
+2011-11-28,Portugal,1414
+2011-11-28,RSA,57
+2011-11-28,Saudi Arabia,9
+2011-11-28,Singapore,222
+2011-11-28,Spain,2414
+2011-11-28,Sweden,450
+2011-11-28,Switzerland,1841
+2011-11-28,USA,179
+2011-11-28,United Arab Emirates,68
+2011-11-28,United Kingdom,342426
+2011-11-28,Unspecified,241
+2011-12-05,Australia,1181
+2011-12-05,Austria,398
+2011-12-05,Bahrain,17
+2011-12-05,Belgium,2031
+2011-12-05,Brazil,32
+2011-12-05,Canada,151
+2011-12-05,Channel Islands,747
+2011-12-05,Cyprus,603
+2011-12-05,Czech Republic,25
+2011-12-05,Denmark,380
+2011-12-05,EIRE,7226
+2011-12-05,European Community,60
+2011-12-05,Finland,685
+2011-12-05,France,8326
+2011-12-05,Germany,9025
+2011-12-05,Greece,145
+2011-12-05,Iceland,182
+2011-12-05,Israel,245
+2011-12-05,Italy,758
+2011-12-05,Japan,321
+2011-12-05,Lebanon,45
+2011-12-05,Lithuania,35
+2011-12-05,Malta,112
+2011-12-05,Netherlands,2359
+2011-12-05,Norway,1071
+2011-12-05,Poland,330
+2011-12-05,Portugal,1453
+2011-12-05,RSA,57
+2011-12-05,Saudi Arabia,9
+2011-12-05,Singapore,222
+2011-12-05,Spain,2479
+2011-12-05,Sweden,450
+2011-12-05,Switzerland,1841
+2011-12-05,USA,179
+2011-12-05,United Arab Emirates,68
+2011-12-05,United Kingdom,349203
+2011-12-05,Unspecified,241
