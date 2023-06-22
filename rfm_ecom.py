@@ -9,9 +9,8 @@ pd.set_option('display.width', 1000)
 from utils import p, quick_report
 
 
-def replace_with_thresholds(dataframe, variable, q1=0.25, q3=0.75):
-
-    df_ = dataframe.copy()
+def replace_with_thresholds(df: pd.DataFrame, variable: str, q1=0.25, q3=0.75):
+    df_ = df.copy()
     quartile1 = df_[variable].quantile(q1)
     quartile3 = df_[variable].quantile(q3)
     iqr = quartile3 - quartile1
@@ -43,7 +42,6 @@ df = df.groupby('CustomerID').agg(
         'TotalPrice': lambda x: x.sum(),
     }
 )
-
 df.columns = ['recency', 'frequency', 'monetary']
 df = df[df['monetary'] > 0].reset_index()
 df.drop(columns=['CustomerID'], inplace=True)

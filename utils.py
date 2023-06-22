@@ -26,7 +26,7 @@ def p(a):
     ic(a)
 
 
-def num_or_not(df):
+def num_or_not(df: pd.DataFrame):
     return (
         df.select_dtypes(include=['object']).columns.tolist(),
         df.select_dtypes(exclude=['object']).columns.tolist(),
